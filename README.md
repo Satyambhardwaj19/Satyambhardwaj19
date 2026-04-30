@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Satyam 👋
 
-<!--
-**Satyambhardwaj19/Satyambhardwaj19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc Data Science and Artificial Intelligence student at the University of Liverpool.  
+I'm interested in data analysis, Python, geospatial visualisation, machine learning, and technology roles within business and financial services.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, pandas, NumPy
+- Data cleaning and exploratory data analysis
+- Matplotlib, GeoPandas, Folium
+- API data retrieval and JSON/CSV workflows
+- Excel, Power BI, Looker Studio
+- Business analysis and client-facing communication
+
+## Featured Projects
+
+### Global Earthquakes Visualisation
+Python project using USGS earthquake API data to analyse and visualise global earthquake patterns through static and interactive maps.
+
+### Liverpool Walkability Analysis
+Geospatial analysis project exploring walking network connectivity in Liverpool using OpenStreetMap data, OSMnx, GeoPandas, and Folium.
+
+### Statistical Data Analysis in Python
+Data analysis project covering missing values, descriptive statistics, quartiles, IQR, correlation, scatterplots, and boxplots.
+
+## Currently Learning
+
+- Stronger Python programming fundamentals
+- Machine learning concepts
+- SQL and databases
+- Cloud and software engineering basics
