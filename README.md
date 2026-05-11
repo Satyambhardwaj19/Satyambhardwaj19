@@ -34,3 +34,11 @@ Data analysis project covering missing values, descriptive statistics, quartiles
 - A data science and AI portfolio focused on Python, data analysis, and geospatial visualisation
 - Clean GitHub repositories with notebooks, outputs, documentation, and reproducible project structure
 - Projects that connect academic learning with practical business and technology problems
+
+## Current Learning Focus
+
+- Strengthening Python programming fundamentals
+- Improving data cleaning and exploratory data analysis skills
+- Learning better Git and GitHub project workflows
+- Building stronger visual explanations for data projects
+- Exploring machine learning and responsible AI concepts
