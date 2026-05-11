@@ -29,9 +29,8 @@ Geospatial analysis project exploring walking network connectivity in Liverpool 
 ### Statistical Data Analysis in Python
 Data analysis project covering missing values, descriptive statistics, quartiles, IQR, correlation, scatterplots, and boxplots.
 
-## Currently Learning
+## Currently Building
 
-- Stronger Python programming fundamentals
-- Machine learning concepts
-- SQL and databases
-- Cloud and software engineering basics
+- A data science and AI portfolio focused on Python, data analysis, and geospatial visualisation
+- Clean GitHub repositories with notebooks, outputs, documentation, and reproducible project structure
+- Projects that connect academic learning with practical business and technology problems
