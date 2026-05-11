@@ -15,7 +15,13 @@ I'm interested in data analysis, Python, geospatial visualisation, machine learn
 ## Featured Projects
 
 ### Global Earthquakes Visualisation
-Python project using USGS earthquake API data to analyse and visualise global earthquake patterns through static and interactive maps.
+
+A Python geospatial data project using the USGS Earthquake Catalog API to visualise global earthquake activity through static and interactive maps.
+
+**Tools used:** Python, pandas, GeoPandas, Matplotlib, Folium, requests  
+**Skills shown:** API data retrieval, GeoJSON handling, geospatial analysis, data visualisation, interactive mapping
+
+[View Project](https://github.com/Satyambhardwaj19/global-earthquakes-visualisation)
 
 ### Liverpool Walkability Analysis
 Geospatial analysis project exploring walking network connectivity in Liverpool using OpenStreetMap data, OSMnx, GeoPandas, and Folium.
