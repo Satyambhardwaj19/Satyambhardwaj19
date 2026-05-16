@@ -24,7 +24,13 @@ A Python geospatial data project using the USGS Earthquake Catalog API to visual
 [View Project](https://github.com/Satyambhardwaj19/global-earthquakes-visualisation)
 
 ### Liverpool Walkability Analysis
-Geospatial analysis project exploring walking network connectivity in Liverpool using OpenStreetMap data, OSMnx, GeoPandas, and Folium.
+
+A Python geospatial analysis project exploring Liverpool's walking network and street connectivity using OpenStreetMap data.
+
+**Tools used:** Python, OSMnx, GeoPandas, Matplotlib, Folium, NetworkX  
+**Skills shown:** geospatial analysis, street network analysis, OpenStreetMap data retrieval, connectivity mapping, data visualisation
+
+[View Project](https://github.com/Satyambhardwaj19/liverpool-walkability-analysis)
 
 ### Statistical Data Analysis in Python
 Data analysis project covering missing values, descriptive statistics, quartiles, IQR, correlation, scatterplots, and boxplots.
