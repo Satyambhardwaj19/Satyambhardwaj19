@@ -32,8 +32,14 @@ A Python geospatial analysis project exploring Liverpool's walking network and s
 
 [View Project](https://github.com/Satyambhardwaj19/liverpool-walkability-analysis)
 
-### Statistical Data Analysis in Python
-Data analysis project covering missing values, descriptive statistics, quartiles, IQR, correlation, scatterplots, and boxplots.
+### Python Statistical Analysis
+
+A Python data analysis project comparing three numerical datasets using descriptive statistics, correlation, simple linear regression, R-squared, scatterplots, and boxplots.
+
+**Tools used:** Python, pandas, NumPy, Matplotlib, Jupyter Notebook  
+**Skills shown:** data cleaning, exploratory data analysis, descriptive statistics, correlation analysis, regression analysis, data visualisation
+
+[View Project](https://github.com/Satyambhardwaj19/python-statistical-analysis)
 
 ## Currently Building
 
