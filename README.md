@@ -21,7 +21,9 @@ A Python geospatial data project using the USGS Earthquake Catalog API to visual
 **Tools used:** Python, pandas, GeoPandas, Matplotlib, Folium, requests  
 **Skills shown:** API data retrieval, GeoJSON handling, geospatial analysis, data visualisation, interactive mapping
 
-[View Project](https://github.com/Satyambhardwaj19/global-earthquakes-visualisation)
+[View Project](https://github.com/Satyambhardwaj19/Global-earthquakes-visualisation)
+
+---
 
 ### Liverpool Walkability Analysis
 
@@ -31,6 +33,8 @@ A Python geospatial analysis project exploring Liverpool's walking network and s
 **Skills shown:** geospatial analysis, street network analysis, OpenStreetMap data retrieval, connectivity mapping, data visualisation
 
 [View Project](https://github.com/Satyambhardwaj19/liverpool-walkability-analysis)
+
+---
 
 ### Python Statistical Analysis
 
