@@ -12,15 +12,6 @@ I'm interested in data analysis, Python, geospatial visualisation, machine learn
 - Excel, Power BI, Looker Studio
 - Business analysis and client-facing communication
 
-## Currently Learning
-
-- Stronger Python programming fundamentals
-- Data cleaning and exploratory data analysis
-- Machine learning concepts
-- SQL and databases
-- Git and GitHub project workflow
-- Responsible AI and LLM evaluation concepts
-
 ## Portfolio Focus
 
 I am building a data science and AI portfolio focused on practical Python projects, data analysis, geospatial visualisation, and clear communication of technical results.
