@@ -47,7 +47,7 @@ I learn fast and build things that work. Currently finishing my dissertation —
 
 ## 📊 Activity
 
-![GitHub streak](https://streak-stats.demolab.com?user=Satyambhardwaj19&theme=dark&hide_border=true)
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyambhardwaj19&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=stars,issues&custom_title=GitHub+Activity)
 
 ---
 
