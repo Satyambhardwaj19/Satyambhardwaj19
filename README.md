@@ -45,11 +45,9 @@ I learn fast and build things that work. Currently finishing my dissertation —
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyambhardwaj19&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyambhardwaj19&layout=compact&theme=dark&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=Satyambhardwaj19&theme=dark&hide_border=true)
 
 ---
 
