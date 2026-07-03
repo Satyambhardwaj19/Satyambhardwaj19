@@ -47,9 +47,9 @@ I learn fast and build things that work. Currently finishing my dissertation —
 
 ## 📊 GitHub Stats
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyambhardwaj19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00d4aa&icon_color=00d4aa&text_color=8892b0)
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyambhardwaj19&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyambhardwaj19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00d4aa&text_color=8892b0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyambhardwaj19&layout=compact&theme=dark&hide_border=true)
 
 ---
 
