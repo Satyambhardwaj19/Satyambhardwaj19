@@ -47,7 +47,10 @@ I learn fast and build things that work. Currently finishing my dissertation —
 
 ## 📊 Activity
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyambhardwaj19&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=stars,issues&custom_title=GitHub+Activity)
+🗂️ **4** projects shipped and documented  
+🌐 **1** live web application deployed  
+⚙️ **8+** tools and technologies used  
+📝 **122** GitHub contributions since June 2025
 
 ---
 
