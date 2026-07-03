@@ -1,74 +1,63 @@
-# Hi, I'm Satyam 👋
+# Hi, I'm Satyam Bhardwaj 👋
 
-I'm an MSc Data Science and Artificial Intelligence student at the University of Liverpool.  
-I'm interested in data analysis, Python, geospatial visualisation, machine learning, and technology roles within business and financial services.
+**MSc Computer Science · University of Liverpool · 2027**
 
-## Skills
-
-- Python, pandas, NumPy
-- Data cleaning and exploratory data analysis
-- Matplotlib, GeoPandas, Folium
-- API data retrieval and JSON/CSV workflows
-- Excel, Power BI, Looker Studio
-- Business analysis and client-facing communication
-
-## Portfolio Focus
-
-I am building a data science and AI portfolio focused on practical Python projects, data analysis, geospatial visualisation, and clear communication of technical results.
-
-My current projects show experience with:
-
-- Python-based data analysis
-- API data retrieval
-- geospatial mapping
-- exploratory data analysis
-- correlation and regression analysis
-- interactive visualisation
-- clear project documentation
-
-## Featured Projects
-
-### Global Earthquakes Visualisation
-
-A Python geospatial data project using the USGS Earthquake Catalog API to visualise global earthquake activity through static and interactive maps.
-
-**Tools used:** Python, pandas, GeoPandas, Matplotlib, Folium, requests  
-**Skills shown:** API data retrieval, GeoJSON handling, geospatial analysis, data visualisation, interactive mapping
-
-[View Project](https://github.com/Satyambhardwaj19/Global-earthquakes-visualisation)
+I learn fast and build things that work. Currently finishing my dissertation — a live UK train tracking web app built from scratch using Python, Flask, and real-time API data.
 
 ---
 
-### Liverpool Walkability Analysis
+## 🚀 What I'm Working On
 
-A Python geospatial analysis project exploring Liverpool's walking network and street connectivity using OpenStreetMap data.
-
-**Tools used:** Python, OSMnx, GeoPandas, Matplotlib, Folium, NetworkX  
-**Skills shown:** geospatial analysis, street network analysis, OpenStreetMap data retrieval, connectivity mapping, data visualisation
-
-[View Project](https://github.com/Satyambhardwaj19/liverpool-walkability-analysis)
+- 🚆 **TrainRadar** — live UK train tracker with position estimation algorithm *(MSc dissertation)*
+- 🌐 **Portfolio** — [satyambhardwaj19.github.io](https://satyambhardwaj19.github.io)
+- 📚 Always learning something new
 
 ---
 
-### Python Statistical Analysis
+## 🛠️ Tech Stack
 
-A Python data analysis project comparing three numerical datasets using descriptive statistics, correlation, simple linear regression, R-squared, scatterplots, and boxplots.
+**Languages & Frameworks**
 
-**Tools used:** Python, pandas, NumPy, Matplotlib, Jupyter Notebook  
-**Skills shown:** data cleaning, exploratory data analysis, descriptive statistics, correlation analysis, regression analysis, data visualisation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[View Project](https://github.com/Satyambhardwaj19/python-statistical-analysis)
+**Data & Tools**
 
-## Currently Building
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- A data science and AI portfolio focused on Python, data analysis, and geospatial visualisation
-- Clean GitHub repositories with notebooks, outputs, documentation, and reproducible project structure
-- Projects that connect academic learning with practical business and technology problems
+---
 
-## Current Learning Focus
+## 📂 Featured Projects
 
-- Strengthening Python programming fundamentals
-- Improving data cleaning and exploratory data analysis skills
-- Learning better Git and GitHub project workflows
-- Building stronger visual explanations for data projects
-- Exploring machine learning and responsible AI concepts
+| Project | What it does | Stack |
+|---|---|---|
+| [🚆 TrainRadar](https://github.com/Satyambhardwaj19/TrainRadar) | Live UK train tracker with position algorithm | Python, Flask, JS, Leaflet.js |
+| [🗺️ Liverpool Walkability](https://github.com/Satyambhardwaj19/liverpool-walkability-analysis) | Street network connectivity analysis | Python, OSMnx, NetworkX |
+| [🌍 Global Earthquakes](https://github.com/Satyambhardwaj19/Global-earthquakes-visualisation) | Live earthquake visualisation via USGS API | Python, GeoPandas, Folium |
+| [📊 Statistical Analysis](https://github.com/Satyambhardwaj19/python-statistical-analysis) | Correlation, regression and data patterns | Python, pandas, Matplotlib |
+
+---
+
+## 📊 GitHub Stats
+
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyambhardwaj19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00d4aa&icon_color=00d4aa&text_color=8892b0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyambhardwaj19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00d4aa&text_color=8892b0)
+
+---
+
+## 🤝 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satyambhardwaj19.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-bhardwaj-56a973224)
+
+---
+
+*Open to graduate roles and interesting opportunities* 🚀
